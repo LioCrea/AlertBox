@@ -13,9 +13,10 @@ Two ways:
 
 1. Link the script to your page. 
 
+<code>
 <script src="http://liocrea.com/alertBox/alertBox-v1.1.js"></script>
 <script src="http://liocrea.com/alertBox/alertBox-v1.1.min.js"></script>
-
+</code>
 2. Download and save the script straight to your target.
 
 Then call the plugin by using alertBox(arg1,arg2,arg3); where:
