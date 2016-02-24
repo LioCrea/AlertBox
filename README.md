@@ -3,7 +3,7 @@ Stop alerting! Start AlertBoxing! Simple fully customizable and cross-browser Ja
 
 #Example
 
-See example here: 
+See example here: http://liocrea.com/alertBox
 
 #How To Use It
 
