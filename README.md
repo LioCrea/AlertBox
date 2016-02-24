@@ -34,3 +34,29 @@ arg1 refers to a pre-customed type: warning or thank you message at the moment.
 
 arg3 refers to a cross hair you can use to close the message. This argument is set to true per default.
 If set to false, the cross hair won't appear.
+
+Example:
+
+<code><pre>
+alertBox(
+		type= 'warning',
+		myMessage= 'This field cannot be empty!',
+		crossHair= false
+);
+</pre></code>
+
+Is equivalent to:
+
+<code><pre>
+alertBox('warning','This field cannot be empty!', false);
+</pre></code>
+
+It means: I want to display a warning message that says "this field cannot be empty" and I don't want to use a crosshair.
+
+This example:
+
+<code><pre>
+alertBox('This field cannot be empty!');
+</pre></code>
+
+will result in a default box (grey colored), with a cross-hair set to true.
