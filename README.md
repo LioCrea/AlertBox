@@ -1,5 +1,7 @@
 # AlertBox
-Stop alerting! Start AlertBoxing! Simple fully customizable and cross-browser Javascript plugin that will help you get rid of alert boxes.
+Stop alerting! Start AlertBoxing! 
+
+Fully customizable, responsive and cross-browser Javascript plugin that will help you get rid of alert boxes.
 
 #Example
 
@@ -10,6 +12,9 @@ See example here: http://liocrea.com/alertBox
 Two ways:
 
 1. Link the script to your page. 
+
+<script src="http://liocrea.com/alertBox/alertBox-v1.1.js"></script>
+<script src="http://liocrea.com/alertBox/alertBox-v1.1.min.js"></script>
 
 2. Download and save the script straight to your target.
 
