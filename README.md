@@ -30,9 +30,9 @@ Then call the plugin by using alertBox(arg1,arg2,arg3); where:
 
 The only required argument is arg2, which corresponds to the text message you want to display. 
 
-arg1 refers to a pre-customed type: warning or thank you message at the moment.
+arg1 refers to a pre-customed type: "warning" or "thank you" message at the moment.
 
-arg3 refers to a cross hair you can use to close the message. This argument is set to true per default.
+arg3 refers to a cross-hair you can use to close the message. This argument is set to true per default.
 If set to false, the cross hair won't appear.
 
 Example:
