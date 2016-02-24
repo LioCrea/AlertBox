@@ -14,8 +14,8 @@ Two ways:
 1. Link the script to your page. 
 
 <code><pre>
-<script src="http://liocrea.com/alertBox/alertBox-v1.1.js"></script>
-<script src="http://liocrea.com/alertBox/alertBox-v1.1.min.js"></script>
+&lt;script src=&quot;http://liocrea.com/alertBox/alertBox-v1.1.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;http://liocrea.com/alertBox/alertBox-v1.1.min.js&quot;&gt;&lt;/script&gt;
 </pre></code>
 2. Download and save the script straight to your target.
 
