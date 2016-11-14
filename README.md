@@ -1,5 +1,4 @@
 # AlertBox
-Stop alerting! Start AlertBoxing! 
 
 Fully customizable, responsive and cross-browser Javascript plugin that will help you get rid of alert boxes.
 
